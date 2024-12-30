@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AXO8FsROE4cL5Ha46BDC5TLNPRlb3sQykuIpnQn1HAA=",
+  "Source": "API-xadrez",
+  "BasePath": "_content/API-xadrez",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
